@@ -1,0 +1,15 @@
+# Ejercicios Practicos 4 y 5
+ 
+## Iniciarlo
+Para iniciar la aplicacion deveras descargarla y en el terminal ir a la carpeta y escribir
+
+` npm install `
+
+Una ves instaladas las depedencias escribir en terminal
+
+` npm start `
+
+Esto ejecutara la app, luego ir a http://localhost:3005/
+
+## Explicacion
+Para estos ejercicios cree una pequeña app/calculadora usando html y jQuery para el cliente y Node.Js para el servidor.
